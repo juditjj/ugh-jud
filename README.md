@@ -24,14 +24,6 @@ Developing an **AI-based coding game** designed to make programming more interac
 * **Tools:** GitHub, Android Studio
 * **Concepts:** Data Structures & Algorithms, AI fundamentals
 
----
-
-### 📫 How to reach me
-
-* Email: *(your email here)*
-* LinkedIn: *(your link here)*
-
----
 
 ### ⚡ Focus
 
