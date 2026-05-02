@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Judit 👋
 
-<!--
-**ugh-jud/ugh-jud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Developer | Java • Python • Android
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👩‍💻 Who am I?
+
+BCA graduate with a foundation in software development, focused on building practical applications and exploring artificial intelligence. Interested in developing systems that combine functionality with real-world impact.
+
+---
+
+### 🚀 What I'm currently working on
+
+Developing an **AI-based coding game** designed to make programming more interactive and engaging. The project focuses on integrating problem-solving challenges with intelligent feedback systems to enhance learning through adaptive gameplay.
+
+---
+
+### 🛠️ Tools & Technologies
+
+* **Languages:** Java, Python
+* **Mobile Development:** Android (Java)
+* **Web & Database:** HTML, PHP, MySQL
+* **Tools:** GitHub, Android Studio
+* **Concepts:** Data Structures & Algorithms, AI fundamentals
+
+---
+
+### 📫 How to reach me
+
+* Email: *(your email here)*
+* LinkedIn: *(your link here)*
+
+---
+
+### ⚡ Focus
+
+Building applications that solve real problems and exploring AI-driven development.
